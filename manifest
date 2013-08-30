@@ -1,0 +1,21 @@
+#appname:KancolleLauncher
+#appid:com.upinetree.kancolle_launcher
+#publisher:upinetree
+#image:default_app_logo.png
+#url:http://github.com/upinetree
+#guid:19088d37-0473-4366-b3cc-8bbcc8d6554f
+#desc:No description provided
+#type:desktop
+runtime:1.3.1-beta
+app:1.3.1-beta
+codec:1.3.1-beta
+database:1.3.1-beta
+filesystem:1.3.1-beta
+media:1.3.1-beta
+monkey:1.3.1-beta
+network:1.3.1-beta
+platform:1.3.1-beta
+process:1.3.1-beta
+ui:1.3.1-beta
+worker:1.3.1-beta
+ruby:1.3.1-beta

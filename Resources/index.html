@@ -1,0 +1,18 @@
+<html>
+<head>
+  <link rel="stylesheet" href="default.css" />
+  <script type="text/ruby" src="ruby/agent.rb"></script>
+</head>
+<body>
+  <iframe id="game_frame" name='game_frame'></iframe>
+
+  <script type="text/javascript">
+    window.onload = function()
+    {
+      var game_frame = document.getElementById('game_frame');
+      game_frame.src = fetch_game_uri();
+    }
+  </script>
+</body>
+</html>
+
